@@ -17,7 +17,7 @@ This project focuses on predicting the risk of Alzheimer's disease using longitu
 - **Neural Network (Multilayer Perceptron)**: Nonlinear classification model  
 - **Time Series Analysis** *(in progress)*: Sequential modeling of patient-level longitudinal features 
 
-## Privacy
+## Privacy Notice
 - **Due to privacy concerns, real data cannot be uploaded.**  
   Instead, mock data is generated based on realistic ranges for each variable to perform tests and further study.
   
