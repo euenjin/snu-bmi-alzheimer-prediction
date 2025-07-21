@@ -9,7 +9,7 @@ This project focuses on predicting the risk of Alzheimer's disease using longitu
 
 - **Source**: National Alzheimer’s Coordinating Center (NACC) Uniform Data Set (UDS)  
 - **Key Variables**: Age, Sex, Stroke History, BMI, Cognitive Test Scores (Memory, Orientation), Blood Pressure, etc.  
-- **Preprocessing**: Missing data imputation (MICE), feature engineering, time series reshaping  
+- **Preprocessing**: Multivariate Imputation by Chained Equations (MICE), feature engineering, time series reshaping  
 
 ## Methods
 
