@@ -19,7 +19,8 @@ This project focuses on predicting the risk of Alzheimer's disease using longitu
 
 ## Privacy Notice
 - **Due to privacy concerns, real data cannot be uploaded.**  
-  Instead, mock data is generated based on realistic ranges for each variable to perform tests and further study.
+- Instead, mock data is generated based on realistic ranges for each variable to understand data better.
+
   
 - **To access real data, please refer to [NACC's Data Request Process](https://naccdata.org/requesting-data/data-request-process).**
 
