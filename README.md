@@ -15,7 +15,8 @@ This project focuses on predicting the risk of Alzheimer's disease using longitu
 
 - **Logistic Regression**: Baseline binary classification model  
 - **Neural Network (Multilayer Perceptron)**: Nonlinear classification model  
-- **Time Series Analysis**: Sequential modeling of patient-level longitudinal features 
+- **Time Series Analysis**: Sequential modeling of patient-level longitudinal features
+- **Cox Hazards Proportional : Model with survival time from alzheimer-free at baseline
 
 ## Privacy Notice
 - **Due to privacy concerns, real data cannot be uploaded.**  
